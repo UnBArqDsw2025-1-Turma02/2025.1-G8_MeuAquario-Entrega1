@@ -1,6 +1,6 @@
 # 🐟 Meu Aquário 🐟
 
-Repositório utilizado pelo Grupo 8, tema Meu Aquário, para realizar a entrega 01 da matéria de Arquitetura e Desenho de Software do período 2025.1.
+Repositório utilizado pelo Grupo 8, tema Meu Aquário, para realizar a entrega 1 da matéria de Arquitetura e Desenho de Software do período 2025.1.
 
 ## Introdução
 
