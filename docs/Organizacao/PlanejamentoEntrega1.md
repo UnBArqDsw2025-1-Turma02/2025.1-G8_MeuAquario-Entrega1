@@ -44,21 +44,282 @@
   * [Prototipar (Prototype)](#Prototipar-(Prototype))
 * [Histórico de versão](#Histórico-de-versão)
 
+
+# Introdução
+
+Este documento visa apresentar em pequenos blocos os tópicos necessários para a primeira entrega do trabalho. Cada tópico está dividido em tabelas as quais contém pequenas atividades e indicam os responsáveis por elas.
+
+# Artefatos Generalistas
+
+## Elicitação dos Requisitos
+
+|   Tópico  | Responsável | Data de início | Data de Entrega |
+| -----------|-----------------|------------------|---------------------| 
+| Criação do documento que introduz os métodos de elicitação utilizados e o escopo | - | - | - | 
+
+## BrainStorm
+
+|   Tópico  | Responsável | Data de início | Data de Entrega |
+| -----------|-----------------|------------------|---------------------| 
+| Fazer reunião para realizar o BrainStorm | Todos | 02/04/2025 | 02/04/2025|
+| Elaboração do mapa metal do BrainStorm| Todos | 02/04/2025 | 02/04/2025| 
+| Realizar a documentação mostrando e explicando os resultados do BrainStorm | - | - | - |
+
+## 5W2H
+
+|   Tópico  | Responsável | Data de início | Data de Entrega |
+| -----------|-----------------|------------------|---------------------|  
+| Elaboração do 5W2H | Todos | - | - |
+
+## Benchmarking
+
+|   Tópico  | Responsável | Data de início | Data de Entrega |
+| -----------|-----------------|------------------|---------------------|  
+|  Realizar a análise de sites de áquario usando o Benchmarking | Larissa Stéfane | - | - |
+
+## Rich Picture
+
+|   Tópico  | Responsável | Data de início | Data de Entrega |
+| -----------|-----------------|------------------|---------------------| 
+| Realizar Rich Picture do cenário | Todos (cada um faz o seu) | 02/04/2025 |  - |
+| Seleção do melhor rich picture | Todos | 03/04/2025 |  - |
+
+## Pesquisa/Questionário
+
+|   Tópico  | Responsável | Data de início | Data de Entrega |
+| -----------|-----------------|------------------|---------------------|  
+|  Elaborar o questionário | - | - | - |
+| Espalhar o questionário | Todos | - | - |
+| Analisar e Documentar os resultados | - | - | - | 
+
+## Definição do Público Alvo
+
+|   Tópico  | Responsável | Data de início | Data de Entrega |
+| -----------|-----------------|------------------|---------------------|  
+| Organizar as características do público alvo a partir do que foi elicitado| Larissa Stéfane | - | - |
+| Elaboração das personas | Larissa Stéfane | - | - | 
+
+## StoryTelling
+
+|   Tópico  | Responsável | Data de início | Data de Entrega |
+| -----------|-----------------|------------------|---------------------|  
+|  Elaborar possíveis requisitos por meio do storytelling | - | - | - |
+
+# Análise dos Requisitos
+
+|   Tópico  | Responsável | Data de início | Data de Entrega |
+| -----------|-----------------|------------------|---------------------| 
+| Criação do documento que introduz os métodos de análise de requisitos utilizados e o escopo | - | - | - | 
+
+## Definição dos requisitos
+
+|   Tópico  | Responsável | Data de início | Data de Entrega |
+| -----------|-----------------|------------------|---------------------| 
+| Elaborar tabela que é a coletânea dos requisitos (Com rastreabilidade) | Larissa Stéfane | - | - | 
+
+## Diagrama modelagem e caso de uso
+
+|   Tópico  | Responsável | Data de início | Data de Entrega |
+| -----------|-----------------|------------------|---------------------|  
+|  Elaborar diagrama de caso de uso | - | - | - |
+
+## Diagrama Causa Efeito (Ishikawa)
+
+|   Tópico  | Responsável | Data de início | Data de Entrega |
+| -----------|-----------------|------------------|---------------------|  
+| Elaborar diagrama de Ishikawa | - | - | - |
+
+## Léxico dos Requisitos (Glossário) 
+
+|   Tópico  | Responsável | Data de início | Data de Entrega |
+| -----------|-----------------|------------------|---------------------|  
+|  Elaborar da tabela  | - | - | - |
+
+# Priorização dos Requisitos
+
+|   Tópico  | Responsável | Data de início | Data de Entrega |
+| -----------|-----------------|------------------|---------------------| 
+| Criação do documento que introduz os métodos de priorização utilizados e o escopo | - | - | - | 
+
+## First Things First
+
+|   Tópico  | Responsável | Data de início | Data de Entrega |
+| -----------|-----------------|------------------|---------------------|  
+|  Elaborar da tabela indicando o grau | - | - | - |
+
+## MoSCow
+
+|   Tópico  | Responsável | Data de início | Data de Entrega |
+| -----------|-----------------|------------------|---------------------|  
+|  Organização dos requisitos | - | - | - |
+
+# Prototipação
+
+## Prototipação
+
+|   Tópico  | Responsável | Data de início | Data de Entrega |
+| -----------|-----------------|------------------|---------------------|  
+|  Elaborar do protótipo | - | - | - |
+
+# Estimativas
+
+## Plano de Riscos 
+
+|   Tópico  | Responsável | Data de início | Data de Entrega |
+| -----------|-----------------|------------------|---------------------|  
+|  Elaborar o plano de riscos | - | - | - |
+
+## Plano de Custos 
+
+|   Tópico  | Responsável | Data de início | Data de Entrega |
+| -----------|-----------------|------------------|---------------------|  
+|  Elaborar o plano de Custos | - | - | - |
+
+## Plano de Tempo 
+
+|   Tópico  | Responsável | Data de início | Data de Entrega |
+| -----------|-----------------|------------------|---------------------|  
+|  Elaborar o plano de Tempo | - | - | - |
+
+# Modelagem BPMN
+
+## Definição da metodologia
+
+|   Tópico  | Responsável | Data de início | Data de Entrega |
+| -----------|-----------------|------------------|---------------------|  
+|  Escolher as metodologias que serão aplicadas | Todos | - | - |
+|  Documentação com justificativa da escolha | - | - | - |
+
+## BPMN - Piscina / Pool
+
+|   Tópico  | Responsável | Data de início | Data de Entrega |
+| -----------|-----------------|------------------|---------------------|
+| Definir os limites da piscina | - | - | - |
+| Representação gráfica da piscina | - | - | - |
+| Documentação explicativa sobre piscinas no BPMN | - | - | - |
+
+## BPMN - Raia / Lane
+|   Tópico  | Responsável | Data de início | Data de Entrega |
+| -----------|-----------------|------------------|---------------------|
+| Definição das raias para cada ator/processo | - | - | - |
+| Representação gráfica das raias | - | - | - |
+| Documentação explicativa sobre raias no BPMN | - | - | - |
+
+## BPMN - Fase / Milestone
+|   Tópico  | Responsável | Data de início | Data de Entrega |
+| -----------|-----------------|------------------|---------------------|
+| Definição de marcos dentro do processo | - | - | - |
+| Identificação e mapeamento de fases | - | - | - |
+| Documentação sobre milestones no BPMN | - | - | - |
+
+## BPMN - Conectores
+|   Tópico  | Responsável | Data de início | Data de Entrega |
+| -----------|-----------------|------------------|---------------------|
+| Definição dos tipos de conectores | - | - | - |
+| Aplicação prática em exemplos de processos | - | - | - |
+| Documentação sobre conectores no BPMN | - | - | - |
+## BPMN - Atividades
+|   Tópico  | Responsável | Data de início | Data de Entrega |
+| -----------|-----------------|------------------|---------------------|
+| Definição dos tipos de atividades (tarefa, subprocesso, etc.) | - | - | - |
+| Exemplificação das atividades no BPMN | - | - | - |
+| Documentação detalhada sobre atividades | - | - | - |
+
+
+## BPMN - Subprocessos
+
+|   Tópico  | Responsável | Data de início | Data de Entrega |
+| -----------|-----------------|------------------|---------------------|
+| Identificação de subprocessos no BPMN | - | - | - |
+| Representação gráfica dos subprocessos | - | - | - |
+| Documentação sobre subprocessos no BPMN | - | - | - |
+
+## BPMN - Call Activity / Reutilizável
+
+|   Tópico  | Responsável | Data de início | Data de Entrega |
+| -----------|-----------------|------------------|---------------------|
+| Definição do conceito de Call Activity | - | - | - |
+| Aplicação prática de atividades reutilizáveis | - | - | - |
+| Documentação sobre Call Activity no BPMN | - | - | - |
+
+## BPMN - Eventos
+
+|   Tópico  | Responsável | Data de início | Data de Entrega |
+| -----------|-----------------|------------------|---------------------|
+| Definição dos tipos de eventos (início, intermediário, fim) | - | - | - |
+| Mapeamento de eventos dentro do BPMN | - | - | - |
+| Documentação detalhada sobre eventos | - | - | - |
+
+## BPMN - Gateways
+
+|   Tópico  | Responsável | Data de início | Data de Entrega |
+| -----------|-----------------|------------------|---------------------|
+| Identificação dos tipos de gateways | - | - | - |
+| Aplicação prática e exemplos | - | - | - |
+| Documentação sobre gateways no BPMN | - | - | - |
+
+## BPMN - Itens e Dados
+
+|   Tópico  | Responsável | Data de início | Data de Entrega |
+| -----------|-----------------|------------------|---------------------|
+| Definição dos itens de dados no BPMN | - | - | - |
+| Representação gráfica de dados no processo | - | - | - |
+| Documentação detalhada sobre dados no BPMN | - | - | - |
+
 # Design Sprint
 
 ## Entender (Unpack)
 
+ Tópico | Responsável | Data de início | Data de Entrega |
+|--------|-------------|----------------|-----------------|
+| Identificação do problema | - | - | - |
+| Mapeamento do contexto e dos usuários | - | - | - |
+| Definição dos objetivos | - | - | - |
+| Adicionar os mapas mentais e as outras técnicas de elicitação realizadas |
 
 ## Definir
+
+| Tópico | Responsável | Data de início | Data de Entrega |
+|--------|-------------|----------------|-----------------|
+| Definir desafios e metas | - | - | - |
+| Seleção de ideias prioritárias | - | - | - |
+| Adicionar a análise de requisitos | - | - | - |
 
 
 ## Esboçar (Sketch)
 
+| Tópico | Responsável | Data de início | Data de Entrega |
+|--------|-------------|----------------|-----------------|
+| Geração de ideias e soluções | - | - | - |
+| Criação de rascunhos e esboços | - | - | - |
+| Refinamento das ideias mais promissoras | - | - | - |
+
 
 ## Decidir (Decision)
 
+| Tópico | Responsável | Data de início | Data de Entrega |
+|--------|-------------|----------------|-----------------|
+| Análise e comparação de esboços | - | - | - |
+| Escolha da solução mais viável | - | - | - |
+| Apresentação da priorização | - | - | - |
+| Definição do fluxo de prototipagem | - | - | - |
+
 
 ## Prototipar (Prototype)
+
+| Tópico | Responsável | Data de início | Data de Entrega |
+|--------|-------------|----------------|-----------------|
+| Desenvolvimento do protótipo | - | - | - |
+| Simulação da experiência do usuário | - | - | - |
+
+
+## Referências Bibliográficas
+
+1. Design Sprint. Disponível em <https://www.gv.com/sprint/> . Acesso em 01/04/2025
+2. Projeto de Desenho e Arquitetura de 2018. Disponível em  <https://desenhosoftware-2018-2.github.io/wiki/> .  Acesso em 01/04/2025
+3. Slide da - AULA – Notação BPMN. Disponível em <https://aprender3.unb.br/pluginfile.php/3070931/mod_page/content/2/Arquitetura%20e%20Desenho%20de%20software%20-%20Aula%20BPMN%20Exemplos%20-%20Profa.%20Milene.pdf> . Acesso em 01/04/2025
+4. Slide da AULA - PROJETO E DESENHO DE SOFTWARE. Disponível em <https://aprender3.unb.br/pluginfile.php/3070928/mod_page/content/5/Arquitetura%20e%20Desenho%20de%20software%20-%20Aula%20Projeto-DSW%20-%20Profa.%20Milene.pdf> .Acesso em 01/04/2025
+5. VazQue, Carlos. Simões, Guilherme. Livro "Engenharia de Requisitos: Software Orientado ao Negócio.". Acesso em 01/04/2025
 
 ## Histórico de versão:
 
