@@ -55,7 +55,7 @@ Este documento visa apresentar em pequenos blocos os tópicos necessários para 
 
 |   Tópico  | Responsável | Data de início | Data de Entrega |
 | -----------|-----------------|------------------|---------------------| 
-| Criação do documento que introduz os métodos de elicitação utilizados e o escopo | - | - | - | 
+| Criação do documento que introduz os métodos de elicitação utilizados e o escopo | Júlia Takaki | - | - | 
 
 ## BrainStorm
 
@@ -63,7 +63,7 @@ Este documento visa apresentar em pequenos blocos os tópicos necessários para 
 | -----------|-----------------|------------------|---------------------| 
 | Fazer reunião para realizar o BrainStorm | Todos | 02/04/2025 | 02/04/2025|
 | Elaboração do mapa metal do BrainStorm| Todos | 02/04/2025 | 02/04/2025| 
-| Realizar a documentação mostrando e explicando os resultados do BrainStorm | - | - | - |
+| Realizar a documentação mostrando e explicando os resultados do BrainStorm | Júlia Takaki | - | - |
 
 ## 5W2H
 
@@ -88,9 +88,9 @@ Este documento visa apresentar em pequenos blocos os tópicos necessários para 
 
 |   Tópico  | Responsável | Data de início | Data de Entrega |
 | -----------|-----------------|------------------|---------------------|  
-|  Elaborar o questionário | - | - | - |
+|  Elaborar o questionário | Júlia Takaki | - | - |
 | Espalhar o questionário | Todos | - | - |
-| Analisar e Documentar os resultados | - | - | - | 
+| Analisar e Documentar os resultados | Júlia Takaki | - | - | 
 
 ## Definição do Público Alvo
 
