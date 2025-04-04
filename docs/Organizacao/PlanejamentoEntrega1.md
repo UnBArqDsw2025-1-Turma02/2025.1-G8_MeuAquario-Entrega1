@@ -55,7 +55,7 @@ Este documento visa apresentar em pequenos blocos os tópicos necessários para 
 
 |   Tópico  | Responsável | Data de início | Data de Entrega |
 | -----------|-----------------|------------------|---------------------| 
-| Criação do documento que introduz os métodos de elicitação utilizados e o escopo | Júlia Takaki | - | - | 
+| Criação do documento que introduz os métodos de elicitação utilizados e o escopo | [Júlia Takaki](https://github.com/juliatakaki) | - | - | 
 
 ## BrainStorm
 
@@ -63,7 +63,7 @@ Este documento visa apresentar em pequenos blocos os tópicos necessários para 
 | -----------|-----------------|------------------|---------------------| 
 | Fazer reunião para realizar o BrainStorm | Todos | 02/04/2025 | 02/04/2025|
 | Elaboração do mapa metal do BrainStorm| Todos | 02/04/2025 | 02/04/2025| 
-| Realizar a documentação mostrando e explicando os resultados do BrainStorm | Júlia Takaki | - | - |
+| Realizar a documentação mostrando e explicando os resultados do BrainStorm | [Júlia Takaki](https://github.com/juliatakaki)  | - | - |
 
 ## 5W2H
 
@@ -88,9 +88,9 @@ Este documento visa apresentar em pequenos blocos os tópicos necessários para 
 
 |   Tópico  | Responsável | Data de início | Data de Entrega |
 | -----------|-----------------|------------------|---------------------|  
-|  Elaborar o questionário | Júlia Takaki | - | - |
+|  Elaborar o questionário | [Júlia Takaki](https://github.com/juliatakaki)  | - | - |
 | Espalhar o questionário | Todos | - | - |
-| Analisar e Documentar os resultados | Júlia Takaki | - | - | 
+| Analisar e Documentar os resultados | [Júlia Takaki](https://github.com/juliatakaki) | - | - | 
 
 ## Definição do Público Alvo
 
@@ -115,7 +115,7 @@ Este documento visa apresentar em pequenos blocos os tópicos necessários para 
 
 |   Tópico  | Responsável | Data de início | Data de Entrega |
 | -----------|-----------------|------------------|---------------------| 
-| Elaborar tabela que é a coletânea dos requisitos (Com rastreabilidade) |  | - | - | 
+| Elaborar tabela que é a coletânea dos requisitos (Com rastreabilidade) | [Rayene Almeida](https://github.com/rayenealmeida) | - | - | 
 
 ## Diagrama modelagem e caso de uso
 
@@ -133,13 +133,13 @@ Este documento visa apresentar em pequenos blocos os tópicos necessários para 
 
 |   Tópico  | Responsável | Data de início | Data de Entrega |
 | -----------|-----------------|------------------|---------------------|  
-|  Elaborar da tabela  | - | - | - |
+|  Elaborar da tabela  | [Rayene Almeida](https://github.com/rayenealmeida) | - | - |
 
 # Priorização dos Requisitos
 
 |   Tópico  | Responsável | Data de início | Data de Entrega |
 | -----------|-----------------|------------------|---------------------| 
-| Criação do documento que introduz os métodos de priorização utilizados e o escopo | - | - | - | 
+| Criação do documento que introduz os métodos de priorização utilizados e o escopo | [Rayene Almeida](https://github.com/rayenealmeida) | - | - | 
 
 ## First Things First
 
@@ -188,15 +188,15 @@ Este documento visa apresentar em pequenos blocos os tópicos necessários para 
 |   Tópico  | Responsável | Data de início | Data de Entrega |
 | -----------|-----------------|------------------|---------------------|  
 |  Escolher as metodologias que serão aplicadas | Todos | - | - |
-|  Documentação com justificativa da escolha | - | - | - |
+|  Documentação com justificativa da escolha | [Rayene Almeida](https://github.com/rayenealmeida) | - | - |
 
 ## BPMN - Piscina / Pool
 
 |   Tópico  | Responsável | Data de início | Data de Entrega |
 | -----------|-----------------|------------------|---------------------|
-| Definir os limites da piscina | - | - | - |
-| Representação gráfica da piscina | - | - | - |
-| Documentação explicativa sobre piscinas no BPMN | - | - | - |
+| Definir os limites da piscina |[Rayene Almeida](https://github.com/rayenealmeida)| - | - |
+| Representação gráfica da piscina | [Rayene Almeida](https://github.com/rayenealmeida) | - | - |
+| Documentação explicativa sobre piscinas no BPMN | [Rayene Almeida](https://github.com/rayenealmeida)| - | - |
 
 ## BPMN - Raia / Lane
 |   Tópico  | Responsável | Data de início | Data de Entrega |
@@ -326,3 +326,4 @@ Este documento visa apresentar em pequenos blocos os tópicos necessários para 
 | Versão | Alteração                  | Responsável     | Revisor | Data       |
 | -      | -                          | -               | -       | -          |
 | 1.0    | Elaboração do documento       | Larissa Stéfane | [Rayene Almeida](https://github.com/rayenealmeida)| 02/04/2025 |
+| 1.1    | Reorganização das tarefas  |  [Rayene Almeida](https://github.com/rayenealmeida)| 02/04/2025 |  |
