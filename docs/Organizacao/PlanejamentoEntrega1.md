@@ -75,7 +75,7 @@ Este documento visa apresentar em pequenos blocos os tópicos necessários para 
 
 |   Tópico  | Responsável | Data de início | Data de Entrega |
 | -----------|-----------------|------------------|---------------------|  
-|  Realizar a análise de sites de áquario usando o Benchmarking | Larissa Stéfane | - | - |
+|  Realizar a análise de sites de áquario usando o Benchmarking | | - | - |
 
 ## Rich Picture
 
@@ -96,8 +96,8 @@ Este documento visa apresentar em pequenos blocos os tópicos necessários para 
 
 |   Tópico  | Responsável | Data de início | Data de Entrega |
 | -----------|-----------------|------------------|---------------------|  
-| Organizar as características do público alvo a partir do que foi elicitado| Larissa Stéfane | - | - |
-| Elaboração das personas | Larissa Stéfane | - | - | 
+| Organizar as características do público alvo a partir do que foi elicitado|  | - | - |
+| Elaboração das personas | | - | - | 
 
 ## StoryTelling
 
@@ -115,7 +115,7 @@ Este documento visa apresentar em pequenos blocos os tópicos necessários para 
 
 |   Tópico  | Responsável | Data de início | Data de Entrega |
 | -----------|-----------------|------------------|---------------------| 
-| Elaborar tabela que é a coletânea dos requisitos (Com rastreabilidade) | Larissa Stéfane | - | - | 
+| Elaborar tabela que é a coletânea dos requisitos (Com rastreabilidade) |  | - | - | 
 
 ## Diagrama modelagem e caso de uso
 
@@ -325,4 +325,4 @@ Este documento visa apresentar em pequenos blocos os tópicos necessários para 
 
 | Versão | Alteração                  | Responsável     | Revisor | Data       |
 | -      | -                          | -               | -       | -          |
-| 1.0    | Elaboração do documento       | Larissa Stéfane | - | 02/04/2025 |
+| 1.0    | Elaboração do documento       | Larissa Stéfane | [Rayene Almeida](https://github.com/rayenealmeida)| 02/04/2025 |
