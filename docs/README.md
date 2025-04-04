@@ -1,7 +1,5 @@
 # Meu Aquário
 
-# Nome do Projeto
-
 **Código da Disciplina**: FGA0208<br>
 **Número do Grupo**: 08<br>
 **Entrega**: 01<br>
