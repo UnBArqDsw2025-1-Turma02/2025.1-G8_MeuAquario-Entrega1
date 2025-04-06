@@ -4,21 +4,21 @@
 * [Introdução](#Introdução)
 * [Artefatos Generalistas](#Artefatos-Generalistas)
   * [Elicitação dos Requisitos](#Elicitação-dos-Requisitos)
-    * [BrainStorm](#BrainStorm)
-    * [5W2H](#5W2H)
-    * [Benchmarking](#Benchmarking)
-    * [Rich Picture](#Rich-Picture)
-    * [Pesquisa/Questionário](#Pesquisa/Questionário)
-    * [Definição do Público Alvo](#Definição-do-Público-Alvo)
-    * [StoryTelling](#StoryTelling)
+  * [BrainStorm](#BrainStorm)
+  * [5W2H](#5W2H)
+  * [Benchmarking](#Benchmarking)
+  * [Rich Picture](#Rich-Picture)
+  * [Pesquisa/Questionário](#Pesquisa/Questionário)
+  * [Definição do Público Alvo](#Definição-do-Público-Alvo)
+  * [StoryTelling](#StoryTelling)
   * [Análise dos Requisitos](#Análise-dos-Requisitos)
-    * [Definição dos Requisitos](#Definição-dos-Requisitos)
-    * [Diagrama Modelagem e Caso de Uso](#Diagrama-Modelagem-e-Caso-de-Uso)
-    * [Diagrama Causa Efeito (Ishikawa)](#Diagrama-Causa-Efeito-(Ishikawa))
-    * [Léxico dos Requisitos (Glossário)](#Léxico-dos-Requisitos-(Glossário))
+  * [Definição dos Requisitos](#Definição-dos-Requisitos)
+  * [Diagrama Modelagem e Caso de Uso](#Diagrama-Modelagem-e-Caso-de-Uso)
+  * [Diagrama Causa Efeito (Ishikawa)](#Diagrama-Causa-Efeito-(Ishikawa))
+  * [Léxico dos Requisitos (Glossário)](#Léxico-dos-Requisitos-(Glossário))
   * [Priorização dos Requisitos](#Priorização-dos-Requisitos)
-    * [First Things First](#First-Things-First)
-    * [MoSCow](#MoSCow)
+  * [First Things First](#First-Things-First)
+  * [MoSCow](#MoSCow)
   * [Prototipação](#Prototipação)
   * [Estimativas](#Estimativas)
     * [Plano de Riscos](#Plano-de-Riscos)
@@ -275,7 +275,7 @@ Este documento visa apresentar em pequenos blocos os tópicos necessários para 
 | Identificação do problema | [Rayene Almeida](https://github.com/rayenealmeida) | - | - |
 | Mapeamento do contexto e dos usuários | [Rayene Almeida](https://github.com/rayenealmeida) | - | - |
 | Definição dos objetivos |[Rayene Almeida](https://github.com/rayenealmeida) | - | - |
-| Adicionar os mapas mentais e as outras técnicas de elicitação realizadas |[Rayene Almeida](https://github.com/rayenealmeida) | - | - |
+| Adicionar os mapas mentais e as outras técnicas de elicitação realizadas |
 
 ## Definir
 
