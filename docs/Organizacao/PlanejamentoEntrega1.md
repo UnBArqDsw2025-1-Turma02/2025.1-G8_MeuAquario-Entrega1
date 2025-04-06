@@ -61,8 +61,8 @@ Este documento visa apresentar em pequenos blocos os tópicos necessários para 
 
 |   Tópico  | Responsável | Data de início | Data de Entrega |
 | -----------|-----------------|------------------|---------------------| 
-| Fazer reunião para realizar o BrainStorm | Todos | 02/04/2025 | 02/04/2025|
-| Elaboração do mapa metal do BrainStorm| Todos | 02/04/2025 | 02/04/2025| 
+| Fazer reunião para realizar o BrainStorm | Todos | 02/04/2025 | /04/2025|
+| Elaboração do mapa metal do BrainStorm| Todos | 02/04/2025 | /04/2025| 
 | Realizar a documentação mostrando e explicando os resultados do BrainStorm | [Júlia Takaki](https://github.com/juliatakaki)  | - | - |
 
 ## 5W2H
@@ -75,7 +75,7 @@ Este documento visa apresentar em pequenos blocos os tópicos necessários para 
 
 |   Tópico  | Responsável | Data de início | Data de Entrega |
 | -----------|-----------------|------------------|---------------------|  
-|  Realizar a análise de sites de áquario usando o Benchmarking | | - | - |
+|  Realizar a análise de sites de áquario usando o Benchmarking | [Rayene Almeida](https://github.com/rayenealmeida) | - | - |
 
 ## Rich Picture
 
@@ -272,10 +272,10 @@ Este documento visa apresentar em pequenos blocos os tópicos necessários para 
 
  Tópico | Responsável | Data de início | Data de Entrega |
 |--------|-------------|----------------|-----------------|
-| Identificação do problema | - | - | - |
-| Mapeamento do contexto e dos usuários | - | - | - |
-| Definição dos objetivos | - | - | - |
-| Adicionar os mapas mentais e as outras técnicas de elicitação realizadas |
+| Identificação do problema | [Rayene Almeida](https://github.com/rayenealmeida) | - | - |
+| Mapeamento do contexto e dos usuários | [Rayene Almeida](https://github.com/rayenealmeida) | - | - |
+| Definição dos objetivos |[Rayene Almeida](https://github.com/rayenealmeida) | - | - |
+| Adicionar os mapas mentais e as outras técnicas de elicitação realizadas |[Rayene Almeida](https://github.com/rayenealmeida) | - | - |
 
 ## Definir
 
