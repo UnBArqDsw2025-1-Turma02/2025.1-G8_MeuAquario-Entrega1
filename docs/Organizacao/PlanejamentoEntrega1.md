@@ -96,8 +96,8 @@ Este documento visa apresentar em pequenos blocos os tópicos necessários para 
 
 |   Tópico  | Responsável | Data de início | Data de Entrega |
 | -----------|-----------------|------------------|---------------------|  
-| Organizar as características do público alvo a partir do que foi elicitado|  | - | - |
-| Elaboração das personas | | - | - | 
+| Organizar as características do público alvo a partir do que foi elicitado| [Brenno Silva](https://github.com/brenno-silva01) | - | - |
+| Elaboração das personas | [Brenno Silva](https://github.com/brenno-silva01) | - | - | 
 
 ## StoryTelling
 
@@ -151,7 +151,7 @@ Este documento visa apresentar em pequenos blocos os tópicos necessários para 
 
 |   Tópico  | Responsável | Data de início | Data de Entrega |
 | -----------|-----------------|------------------|---------------------|  
-|  Organização dos requisitos | - | - | - |
+|  Organização dos requisitos | [Brenno Silva](https://github.com/brenno-silva01) | - | - |
 
 # Prototipação
 
@@ -201,9 +201,9 @@ Este documento visa apresentar em pequenos blocos os tópicos necessários para 
 ## BPMN - Raia / Lane
 |   Tópico  | Responsável | Data de início | Data de Entrega |
 | -----------|-----------------|------------------|---------------------|
-| Definição das raias para cada ator/processo | - | - | - |
-| Representação gráfica das raias | - | - | - |
-| Documentação explicativa sobre raias no BPMN | - | - | - |
+| Definição das raias para cada ator/processo | [Brenno Silva](https://github.com/brenno-silva01) | - | - |
+| Representação gráfica das raias | [Brenno Silva](https://github.com/brenno-silva01) | - | - |
+| Documentação explicativa sobre raias no BPMN | [Brenno Silva](https://github.com/brenno-silva01) | - | - |
 
 ## BPMN - Fase / Milestone
 |   Tópico  | Responsável | Data de início | Data de Entrega |
@@ -281,7 +281,7 @@ Este documento visa apresentar em pequenos blocos os tópicos necessários para 
 
 | Tópico | Responsável | Data de início | Data de Entrega |
 |--------|-------------|----------------|-----------------|
-| Definir desafios e metas | - | - | - |
+| Definir desafios e metas | [Brenno Silva](https://github.com/brenno-silva01) | - | - |
 | Seleção de ideias prioritárias | - | - | - |
 | Adicionar a análise de requisitos | - | - | - |
 
