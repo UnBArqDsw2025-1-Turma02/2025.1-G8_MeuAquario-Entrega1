@@ -34,17 +34,52 @@ docsify serve ./docs
 
 <center> 
   
-  <table style="width: 100%;">
+<table style="width: 100%;">
   <tr>
-    <td align="center"><a href="https://github.com/Brenno-Silva01"><img style="border-radius: 50%;" src="https://github.com/Brenno-Silva01.png" width="100px;" alt="Imagem de Brenno Oliveira "/><br /><sub><b>Brenno Oliveira </b></sub></a></td>
-    <td align="center"><a href="https://github.com/juliatakaki"><img style="border-radius: 50%;" src="https://github.com/juliatakaki.png" width="100px;" alt="Imagem de Julia Takaki"/><br /><sub><b>Julia Takaki</b></sub></a></td>
-    <td align="center"><a href="https://github.com/DudaV228o"><img style="border-radius: 50%;" src="https://github.com/DudaV228.png" width="100px;" alt="Imagem de Maria Eduarda"/><br /><sub><b>Maria Eduarda</b></sub></a></td>
-    <td align="center"><a href="https://github.com/PedroHhenriq"><img style="border-radius: 50%;" src="https://github.com/PedroHhenriq.png" width="100px;" alt="Imagem de Pedro Henrique"/><br /><sub><b>Pedro Henrique</b></sub></a></td>
-    <td align="center"><a href="https://github.com/rayenealmeida"><img style="border-radius: 50%;" src="https://github.com/rayenealmeida.png" width="100px;" alt="Imagem de Rayene Almeida"/><br /><sub><b>Rayene Almeida</b></sub></a></td>
-    <tdhttps: align="center"><a href="https://github.com/Osidious"><img style="border-radius: 50%;" src="https://github.com/Osidious.png" width="100px;" alt="Imagem de Renato Carvalho"/><br /><sub><b>Renato Carvalho</b></sub></a></td>
-    <tdhttps: align="center"><a href="https://github.com/aqela-batata-alt"><img style="border-radius: 50%;" src="https://github.com/aqela-batata-alt.png" width="100px;" alt="Imagem de Víctor Almeida"/><br /><sub><b>Víctor Almeida</b></sub></a></td>
-
+    <td align="center">
+      <a href="https://github.com/Brenno-Silva01">
+        <img style="border-radius: 50%;" src="https://github.com/Brenno-Silva01.png" width="100px;" alt="Imagem de Brenno Oliveira"/><br />
+        <sub><b>Brenno Oliveira</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/juliatakaki">
+        <img style="border-radius: 50%;" src="https://github.com/juliatakaki.png" width="100px;" alt="Imagem de Julia Takaki"/><br />
+        <sub><b>Julia Takaki</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/DudaV228">
+        <img style="border-radius: 50%;" src="https://github.com/DudaV228.png" width="100px;" alt="Imagem de Maria Eduarda"/><br />
+        <sub><b>Maria Eduarda</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/PedroHhenriq">
+        <img style="border-radius: 50%;" src="https://github.com/PedroHhenriq.png" width="100px;" alt="Imagem de Pedro Henrique"/><br />
+        <sub><b>Pedro Henrique</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/rayenealmeida">
+        <img style="border-radius: 50%;" src="https://github.com/rayenealmeida.png" width="100px;" alt="Imagem de Rayene Almeida"/><br />
+        <sub><b>Rayene Almeida</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Osidious">
+        <img style="border-radius: 50%;" src="https://github.com/Osidious.png" width="100px;" alt="Imagem de Renato Carvalho"/><br />
+        <sub><b>Renato Carvalho</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/aqela-batata-alt">
+        <img style="border-radius: 50%;" src="https://github.com/aqela-batata-alt.png" width="100px;" alt="Imagem de Víctor Almeida"/><br />
+        <sub><b>Víctor Almeida</b></sub>
+      </a>
+    </td>
   </tr>
-</table> 
+</table>
+
 
 </center>
