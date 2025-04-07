@@ -270,12 +270,12 @@ Este documento visa apresentar em pequenos blocos os tópicos necessários para 
 
 ## Entender (Unpack)
 
- Tópico | Responsável | Data de início | Data de Entrega |
+| Tópico | Responsável | Data de início | Data de Entrega |
 |--------|-------------|----------------|-----------------|
 | Identificação do problema | [Rayene Almeida](https://github.com/rayenealmeida) | - | - |
 | Mapeamento do contexto e dos usuários | [Rayene Almeida](https://github.com/rayenealmeida) | - | - |
 | Definição dos objetivos |[Rayene Almeida](https://github.com/rayenealmeida) | - | - |
-| Adicionar os mapas mentais e as outras técnicas de elicitação realizadas |
+| Adicionar os mapas mentais e as outras técnicas de elicitação realizadas | - | - |
 
 ## Definir
 
