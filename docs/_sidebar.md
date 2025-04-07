@@ -8,6 +8,7 @@
     - [1.1. Design Sprint](Base/1.1.DesignSprint.md)
       - [1.1.1. Entender](Base/1.1.1.Entender.md)
     - [1.2. Artefato Generalista](Base/1.2.ArtefatoGeneralista.md)
+      - [1.2.3. 5W2H ](Base/1.2.3.5W2H.md)
       - [1.2.4. Benchmarking](Base/1.2.4.Benchmarking.md)
       - [1.2.10. Definição dos Requisitos](Base/1.2.10.DefinicaoDosRequisitos.md)
       - [1.2.13. Léxico dos Requisitos](Base/1.2.13.LexicoDosRequisitos.md)
