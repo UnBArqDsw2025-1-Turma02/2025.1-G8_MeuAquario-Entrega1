@@ -23,7 +23,7 @@ O brainstorm é uma metodologia colaborativa voltada para a geração de ideias 
 ### Tema: Criação de um Blog sobre Aquarismo
 Foi realizada uma reunião em horário de aula com todos os membros da equipe, onde foram discutidas ideias para o desenvolvimento de um blog voltado à prática do aquarismo. Durante esse encontro, foram explorados tópicos como: montagem e manutenção de aquários, tipos de plantas aquáticas, aquarismo marinho vs. aquarismo de água doce, entre outros. As propostas foram registradas, analisadas e organizadas para servir de base para a construção do conteúdo inicial do blog.
 
-![Brainstorm](../assets/Brainstorm.png)
+![Brainstorm](assets/Brainstorm.png)
 
 <div  style="text-align: center">
 
