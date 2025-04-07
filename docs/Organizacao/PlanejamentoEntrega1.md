@@ -103,13 +103,13 @@ Este documento visa apresentar em pequenos blocos os tópicos necessários para 
 
 |   Tópico  | Responsável | Data de início | Data de Entrega |
 | -----------|-----------------|------------------|---------------------|  
-|  Elaborar possíveis requisitos por meio do storytelling | - | - | - |
+|  Elaborar possíveis requisitos por meio do storytelling | [Maria Eduarda] | - | - |
 
 # Análise dos Requisitos
 
 |   Tópico  | Responsável | Data de início | Data de Entrega |
 | -----------|-----------------|------------------|---------------------| 
-| Criação do documento que introduz os métodos de análise de requisitos utilizados e o escopo | - | - | - | 
+| Criação do documento que introduz os métodos de análise de requisitos utilizados e o escopo | [Maria Eduarda] | - | - | 
 
 ## Definição dos requisitos
 
@@ -121,7 +121,7 @@ Este documento visa apresentar em pequenos blocos os tópicos necessários para 
 
 |   Tópico  | Responsável | Data de início | Data de Entrega |
 | -----------|-----------------|------------------|---------------------|  
-|  Elaborar diagrama de caso de uso | - | - | - |
+|  Elaborar diagrama de caso de uso | [Maria Eduarda] | - | - |
 
 ## Diagrama Causa Efeito (Ishikawa)
 
@@ -167,7 +167,7 @@ Este documento visa apresentar em pequenos blocos os tópicos necessários para 
 
 |   Tópico  | Responsável | Data de início | Data de Entrega |
 | -----------|-----------------|------------------|---------------------|  
-|  Elaborar o plano de riscos | - | - | - |
+|  Elaborar o plano de riscos | [Maria Eduarda] | - | - |
 
 ## Plano de Custos 
 
@@ -179,7 +179,7 @@ Este documento visa apresentar em pequenos blocos os tópicos necessários para 
 
 |   Tópico  | Responsável | Data de início | Data de Entrega |
 | -----------|-----------------|------------------|---------------------|  
-|  Elaborar o plano de Tempo | - | - | - |
+|  Elaborar o plano de Tempo | [Maria Eduarda] | - | - |
 
 # Modelagem BPMN
 
@@ -215,9 +215,9 @@ Este documento visa apresentar em pequenos blocos os tópicos necessários para 
 ## BPMN - Conectores
 |   Tópico  | Responsável | Data de início | Data de Entrega |
 | -----------|-----------------|------------------|---------------------|
-| Definição dos tipos de conectores | - | - | - |
-| Aplicação prática em exemplos de processos | - | - | - |
-| Documentação sobre conectores no BPMN | - | - | - |
+| Definição dos tipos de conectores | [Maria Eduarda] | - | - |
+| Aplicação prática em exemplos de processos | [Maria Eduarda] | - | - |
+| Documentação sobre conectores no BPMN | [Maria Eduarda] | - | - |
 ## BPMN - Atividades
 |   Tópico  | Responsável | Data de início | Data de Entrega |
 | -----------|-----------------|------------------|---------------------|
@@ -309,8 +309,8 @@ Este documento visa apresentar em pequenos blocos os tópicos necessários para 
 
 | Tópico | Responsável | Data de início | Data de Entrega |
 |--------|-------------|----------------|-----------------|
-| Desenvolvimento do protótipo | - | - | - |
-| Simulação da experiência do usuário | - | - | - |
+| Desenvolvimento do protótipo | [Maria Eduarda] | - | - |
+| Simulação da experiência do usuário | [Maria Eduarda] | - | - |
 
 
 ## Referências Bibliográficas
@@ -323,7 +323,7 @@ Este documento visa apresentar em pequenos blocos os tópicos necessários para 
 
 ## Histórico de versão:
 
-| Versão | Alteração                  | Responsável     | Revisor | Data       |
-| -      | -                          | -               | -       | -          |
-| 1.0    | Elaboração do documento       | Larissa Stéfane | [Rayene Almeida](https://github.com/rayenealmeida)| 02/04/2025 |
+| Versão | Alteração                  | Responsável     | Revisor | Data       | |
+| -      | -                          | -               | -       | -          |- |
+| 1.0    | Elaboração do documento       | Larissa Stéfane | [Rayene Almeida](https://github.com/rayenealmeida)| 02/04/2025 | Ortografia correta, foi corrigido a participante e a hierarquia dos tópicos
 | 1.1    | Reorganização das tarefas  |  [Rayene Almeida](https://github.com/rayenealmeida)| 02/04/2025 |  |
