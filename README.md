@@ -45,7 +45,7 @@ docsify serve ./docs
     <td align="center">
       <a href="https://github.com/juliatakaki">
         <img style="border-radius: 50%;" src="https://github.com/juliatakaki.png" width="100px;" alt="Imagem de Julia Takaki"/><br />
-        <sub><b>Julia Takaki</b></sub>
+        <sub><b>Júlia Takaki</b></sub>
       </a>
     </td>
     <td align="center">
