@@ -7,17 +7,52 @@
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/style.min.css" />
 </head>
+<style>
+
+    /* Estilos para o modo escuro */
+  [data-theme='dark'] {
+    --base-color: #1c2022;
+    --text-color: #b4b4b4;
+  }
+
+  /* Estilos para o modo claro */
+  [data-theme='light'] {
+    --base-color: #ffffff;
+    --text-color: #2c3e50;
+  }
+
+</style>
 <body>
   <div id="app"></div>
   <script>
     window.$docsify = {
       loadSidebar: true,
       name: 'Meu Aquário',
-      repo: 'https://github.com/UnBArqDsw2025-1-Turma02/2025.1-G8_MeuAquario-Entrega1'
-    }
+      repo: 'https://github.com/UnBArqDsw2025-1-Turma02/2025.1-G8_MeuAquario-Entrega1',
+
+      darklightTheme: {
+        siteFont: 'PT Sans',
+        defaultTheme: 'dark',
+        codeFontFamily: 'Roboto Mono, Monaco, courier, monospace',
+        bodyFontSize: '17px',
+        dark: {
+          background: '#1c2022',
+          toggleBtnBg: '#34495e',
+          textColor: '#b4b4b4'
+        },
+        light: {
+          background: '#ffffff',
+          toggleBtnBg: '#f3f3f3',
+          textColor: '#2c3e50'
+        }
+      }
+    };
   </script>
   <!-- Docsify v4 -->
+  <script src="https://cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/index.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+
 </body>
 </html>
