@@ -69,13 +69,13 @@ Este documento visa apresentar em pequenos blocos os tópicos necessários para 
 
 |   Tópico  | Responsável | Data de início | Data de Entrega |
 | -----------|-----------------|------------------|---------------------|  
-| Elaboração do 5W2H | Todos | - | - |
+| Elaboração do 5W2H | Todos | 07/04/2025 | 07/04/2025 |
 
 ## Benchmarking
 
 |   Tópico  | Responsável | Data de início | Data de Entrega |
 | -----------|-----------------|------------------|---------------------|  
-|  Realizar a análise de sites de áquario usando o Benchmarking | [Rayene Almeida](https://github.com/rayenealmeida) | - | - |
+|  Realizar a análise de sites de áquario usando o Benchmarking | [Rayene Almeida](https://github.com/rayenealmeida) | 06/04/2025| 09/04/2025 |
 
 ## Rich Picture
 
