@@ -127,7 +127,7 @@ Este documento visa apresentar em pequenos blocos os tópicos necessários para 
 
 |   Tópico  | Responsável | Data de início | Data de Entrega |
 | -----------|-----------------|------------------|---------------------|  
-| Elaborar diagrama de Ishikawa | - | - | - |
+| Elaborar diagrama de Ishikawa | [Renato Carvalho](https://github.com/Osidious) | - | - |
 
 ## Léxico dos Requisitos (Glossário) 
 

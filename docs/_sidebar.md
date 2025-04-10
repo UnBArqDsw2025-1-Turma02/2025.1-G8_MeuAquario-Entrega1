@@ -18,7 +18,7 @@
       - [1.2.8. Análise dos Requisitos](Base/1.2.8.AnaliseRequisitos.md)
       - [1.2.9. Definição dos Requisitos](Base/1.2.9.DefinicaoDosRequisitos.md)
       - [1.2.10. Diagrama de Modelagem e Caso de Uso](Base/1.2.10.DiagramaModelagemCasoUso.md)
-      - [1.2.11. Diagrama de Causa e Efeito](Base/1.2.11.DiagramaCausaEfeito.md)
+      - [1.2.11. Diagrama Causa Efeito (Ishikawa)](Base/1.2.11.DiagramaIshikawa.md)
       - [1.2.12. Léxico dos Requisitos](Base/1.2.12.LexicoDosRequisitos.md)
       - [1.2.13. Priorização dos Requisitos](Base/1.2.13.PriorizacaoDosRequisitos.md)
       - [1.2.14. First Things First](Base/1.2.14.FirstThingsFirst.md)
