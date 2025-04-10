@@ -133,7 +133,7 @@ Este documento visa apresentar em pequenos blocos os tópicos necessários para 
 
 |   Tópico  | Responsável | Data de início | Data de Entrega |
 | -----------|-----------------|------------------|---------------------|  
-|  Elaborar da tabela  | [Rayene Almeida](https://github.com/rayenealmeida) | - | - |
+|  Elaborar da tabela  | [Rayene Almeida](https://github.com/rayenealmeida) | 06/04/2025 | 09/04/2025 |
 
 # Priorização dos Requisitos
 
@@ -315,11 +315,11 @@ Este documento visa apresentar em pequenos blocos os tópicos necessários para 
 
 ## Referências Bibliográficas
 
-1. Design Sprint. Disponível em <https://www.gv.com/sprint/> . Acesso em 01/04/2025
-2. Projeto de Desenho e Arquitetura de 2018. Disponível em  <https://desenhosoftware-2018-2.github.io/wiki/> .  Acesso em 01/04/2025
-3. Slide da - AULA – Notação BPMN. Disponível em <https://aprender3.unb.br/pluginfile.php/3070931/mod_page/content/2/Arquitetura%20e%20Desenho%20de%20software%20-%20Aula%20BPMN%20Exemplos%20-%20Profa.%20Milene.pdf> . Acesso em 01/04/2025
-4. Slide da AULA - PROJETO E DESENHO DE SOFTWARE. Disponível em <https://aprender3.unb.br/pluginfile.php/3070928/mod_page/content/5/Arquitetura%20e%20Desenho%20de%20software%20-%20Aula%20Projeto-DSW%20-%20Profa.%20Milene.pdf> .Acesso em 01/04/2025
-5. VazQue, Carlos. Simões, Guilherme. Livro "Engenharia de Requisitos: Software Orientado ao Negócio.". Acesso em 01/04/2025
+- Design Sprint. Disponível em <https://www.gv.com/sprint/> . Acesso em 01/04/2025
+- Projeto de Desenho e Arquitetura de 2018. Disponível em  <https://desenhosoftware-2018-2.github.io/wiki/> .  Acesso em 01/04/2025
+- Slide da - AULA – Notação BPMN. Disponível em <https://aprender3.unb.br/pluginfile.php/3070931/mod_page/content/2/Arquitetura%20e%20Desenho%20de%20software%20-%20Aula%20BPMN%20Exemplos%20-%20Profa.%20Milene.pdf> . Acesso em 01/04/2025
+- Slide da AULA - PROJETO E DESENHO DE SOFTWARE. Disponível em <https://aprender3.unb.br/pluginfile.php/3070928/mod_page/content/5/Arquitetura%20e%20Desenho%20de%20software%20-%20Aula%20Projeto-DSW%20-%20Profa.%20Milene.pdf> .Acesso em 01/04/2025
+- VazQue, Carlos. Simões, Guilherme. Livro "Engenharia de Requisitos: Software Orientado ao Negócio.". Acesso em 01/04/2025
 
 ## Histórico de versão:
 
