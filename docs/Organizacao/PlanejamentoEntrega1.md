@@ -69,13 +69,13 @@ Este documento visa apresentar em pequenos blocos os tópicos necessários para 
 
 |   Tópico  | Responsável | Data de início | Data de Entrega |
 | -----------|-----------------|------------------|---------------------|  
-| Elaboração do 5W2H | Todos | - | - |
+| Elaboração do 5W2H | Todos | 07/04/2025 | 07/04/2025 |
 
 ## Benchmarking
 
 |   Tópico  | Responsável | Data de início | Data de Entrega |
 | -----------|-----------------|------------------|---------------------|  
-|  Realizar a análise de sites de áquario usando o Benchmarking | [Rayene Almeida](https://github.com/rayenealmeida) | - | - |
+|  Realizar a análise de sites de áquario usando o Benchmarking | [Rayene Almeida](https://github.com/rayenealmeida) | 06/04/2025| 09/04/2025 |
 
 ## Rich Picture
 
@@ -103,13 +103,13 @@ Este documento visa apresentar em pequenos blocos os tópicos necessários para 
 
 |   Tópico  | Responsável | Data de início | Data de Entrega |
 | -----------|-----------------|------------------|---------------------|  
-|  Elaborar possíveis requisitos por meio do storytelling | [Maria Eduarda] | - | - |
+|  Elaborar possíveis requisitos por meio do storytelling | [Maria Eduarda](https://github.com/DudaV228) | - | - |
 
 # Análise dos Requisitos
 
 |   Tópico  | Responsável | Data de início | Data de Entrega |
 | -----------|-----------------|------------------|---------------------| 
-| Criação do documento que introduz os métodos de análise de requisitos utilizados e o escopo | [Maria Eduarda] | - | - | 
+| Criação do documento que introduz os métodos de análise de requisitos utilizados e o escopo | [Maria Eduarda](https://github.com/DudaV228) | - | - | 
 
 ## Definição dos requisitos
 
@@ -121,19 +121,19 @@ Este documento visa apresentar em pequenos blocos os tópicos necessários para 
 
 |   Tópico  | Responsável | Data de início | Data de Entrega |
 | -----------|-----------------|------------------|---------------------|  
-|  Elaborar diagrama de caso de uso | [Maria Eduarda] | - | - |
+|  Elaborar diagrama de caso de uso | [Maria Eduarda](https://github.com/DudaV228) | - | - |
 
 ## Diagrama Causa Efeito (Ishikawa)
 
 |   Tópico  | Responsável | Data de início | Data de Entrega |
 | -----------|-----------------|------------------|---------------------|  
-| Elaborar diagrama de Ishikawa | - | - | - |
+| Elaborar diagrama de Ishikawa | [Renato Carvalho](https://github.com/Osidious) | - | - |
 
 ## Léxico dos Requisitos (Glossário) 
 
 |   Tópico  | Responsável | Data de início | Data de Entrega |
 | -----------|-----------------|------------------|---------------------|  
-|  Elaborar da tabela  | [Rayene Almeida](https://github.com/rayenealmeida) | - | - |
+|  Elaborar da tabela  | [Rayene Almeida](https://github.com/rayenealmeida) | 06/04/2025 | 09/04/2025 |
 
 # Priorização dos Requisitos
 
@@ -167,7 +167,7 @@ Este documento visa apresentar em pequenos blocos os tópicos necessários para 
 
 |   Tópico  | Responsável | Data de início | Data de Entrega |
 | -----------|-----------------|------------------|---------------------|  
-|  Elaborar o plano de riscos | [Maria Eduarda] | - | - |
+|  Elaborar o plano de riscos | [Maria Eduarda](https://github.com/DudaV228) | - | - |
 
 ## Plano de Custos 
 
@@ -179,7 +179,7 @@ Este documento visa apresentar em pequenos blocos os tópicos necessários para 
 
 |   Tópico  | Responsável | Data de início | Data de Entrega |
 | -----------|-----------------|------------------|---------------------|  
-|  Elaborar o plano de Tempo | [Maria Eduarda] | - | - |
+|  Elaborar o plano de Tempo | [Maria Eduarda](https://github.com/DudaV228) | - | - |
 
 # Modelagem BPMN
 
@@ -215,9 +215,9 @@ Este documento visa apresentar em pequenos blocos os tópicos necessários para 
 ## BPMN - Conectores
 |   Tópico  | Responsável | Data de início | Data de Entrega |
 | -----------|-----------------|------------------|---------------------|
-| Definição dos tipos de conectores | [Maria Eduarda] | - | - |
-| Aplicação prática em exemplos de processos | [Maria Eduarda] | - | - |
-| Documentação sobre conectores no BPMN | [Maria Eduarda] | - | - |
+| Definição dos tipos de conectores | [Maria Eduarda](https://github.com/DudaV228) | - | - |
+| Aplicação prática em exemplos de processos | [Maria Eduarda](https://github.com/DudaV228) | - | - |
+| Documentação sobre conectores no BPMN | [Maria Eduarda](https://github.com/DudaV228) | - | - |
 ## BPMN - Atividades
 |   Tópico  | Responsável | Data de início | Data de Entrega |
 | -----------|-----------------|------------------|---------------------|
@@ -238,9 +238,9 @@ Este documento visa apresentar em pequenos blocos os tópicos necessários para 
 
 |   Tópico  | Responsável | Data de início | Data de Entrega |
 | -----------|-----------------|------------------|---------------------|
-| Definição do conceito de Call Activity | - | - | - |
-| Aplicação prática de atividades reutilizáveis | - | - | - |
-| Documentação sobre Call Activity no BPMN | - | - | - |
+| Definição do conceito de Call Activity | [Maria Eduarda](https://github.com/DudaV228) | - | - |
+| Aplicação prática de atividades reutilizáveis | [Maria Eduarda](https://github.com/DudaV228) | - | - |
+| Documentação sobre Call Activity no BPMN | [Maria Eduarda](https://github.com/DudaV228) | - | - |
 
 ## BPMN - Eventos
 
@@ -309,21 +309,21 @@ Este documento visa apresentar em pequenos blocos os tópicos necessários para 
 
 | Tópico | Responsável | Data de início | Data de Entrega |
 |--------|-------------|----------------|-----------------|
-| Desenvolvimento do protótipo | [Maria Eduarda] | - | - |
-| Simulação da experiência do usuário | [Maria Eduarda] | - | - |
+| Desenvolvimento do protótipo | [Maria Eduarda](https://github.com/DudaV228) | - | - |
+| Simulação da experiência do usuário | [Maria Eduarda](https://github.com/DudaV228) | - | - |
 
 
 ## Referências Bibliográficas
 
-1. Design Sprint. Disponível em <https://www.gv.com/sprint/> . Acesso em 01/04/2025
-2. Projeto de Desenho e Arquitetura de 2018. Disponível em  <https://desenhosoftware-2018-2.github.io/wiki/> .  Acesso em 01/04/2025
-3. Slide da - AULA – Notação BPMN. Disponível em <https://aprender3.unb.br/pluginfile.php/3070931/mod_page/content/2/Arquitetura%20e%20Desenho%20de%20software%20-%20Aula%20BPMN%20Exemplos%20-%20Profa.%20Milene.pdf> . Acesso em 01/04/2025
-4. Slide da AULA - PROJETO E DESENHO DE SOFTWARE. Disponível em <https://aprender3.unb.br/pluginfile.php/3070928/mod_page/content/5/Arquitetura%20e%20Desenho%20de%20software%20-%20Aula%20Projeto-DSW%20-%20Profa.%20Milene.pdf> .Acesso em 01/04/2025
-5. VazQue, Carlos. Simões, Guilherme. Livro "Engenharia de Requisitos: Software Orientado ao Negócio.". Acesso em 01/04/2025
+- Design Sprint. Disponível em <https://www.gv.com/sprint/> . Acesso em 01/04/2025
+- Projeto de Desenho e Arquitetura de 2018. Disponível em  <https://desenhosoftware-2018-2.github.io/wiki/> .  Acesso em 01/04/2025
+- Slide da - AULA – Notação BPMN. Disponível em <https://aprender3.unb.br/pluginfile.php/3070931/mod_page/content/2/Arquitetura%20e%20Desenho%20de%20software%20-%20Aula%20BPMN%20Exemplos%20-%20Profa.%20Milene.pdf> . Acesso em 01/04/2025
+- Slide da AULA - PROJETO E DESENHO DE SOFTWARE. Disponível em <https://aprender3.unb.br/pluginfile.php/3070928/mod_page/content/5/Arquitetura%20e%20Desenho%20de%20software%20-%20Aula%20Projeto-DSW%20-%20Profa.%20Milene.pdf> .Acesso em 01/04/2025
+- VazQue, Carlos. Simões, Guilherme. Livro "Engenharia de Requisitos: Software Orientado ao Negócio.". Acesso em 01/04/2025
 
 ## Histórico de versão:
 
 | Versão | Alteração                  | Responsável     | Revisor | Data       | |
 | -      | -                          | -               | -       | -          |- |
 | 1.0    | Elaboração do documento       | Larissa Stéfane | [Rayene Almeida](https://github.com/rayenealmeida)| 02/04/2025 | Ortografia correta, foi corrigido a participante e a hierarquia dos tópicos
-| 1.1    | Reorganização das tarefas  |  [Rayene Almeida](https://github.com/rayenealmeida)| 02/04/2025 |  |
+| 1.1    | Reorganização das tarefas  |  [Rayene Almeida](https://github.com/rayenealmeida)|  | 02/04/2025 |
