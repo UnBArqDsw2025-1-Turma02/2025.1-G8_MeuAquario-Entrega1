@@ -103,13 +103,13 @@ Este documento visa apresentar em pequenos blocos os tópicos necessários para 
 
 |   Tópico  | Responsável | Data de início | Data de Entrega |
 | -----------|-----------------|------------------|---------------------|  
-|  Elaborar possíveis requisitos por meio do storytelling | [Maria Eduarda] | - | - |
+|  Elaborar possíveis requisitos por meio do storytelling | [Maria Eduarda](https://github.com/DudaV228) | - | - |
 
 # Análise dos Requisitos
 
 |   Tópico  | Responsável | Data de início | Data de Entrega |
 | -----------|-----------------|------------------|---------------------| 
-| Criação do documento que introduz os métodos de análise de requisitos utilizados e o escopo | [Maria Eduarda] | - | - | 
+| Criação do documento que introduz os métodos de análise de requisitos utilizados e o escopo | [Maria Eduarda](https://github.com/DudaV228) | - | - | 
 
 ## Definição dos requisitos
 
@@ -121,7 +121,7 @@ Este documento visa apresentar em pequenos blocos os tópicos necessários para 
 
 |   Tópico  | Responsável | Data de início | Data de Entrega |
 | -----------|-----------------|------------------|---------------------|  
-|  Elaborar diagrama de caso de uso | [Maria Eduarda] | - | - |
+|  Elaborar diagrama de caso de uso | [Maria Eduarda](https://github.com/DudaV228) | - | - |
 
 ## Diagrama Causa Efeito (Ishikawa)
 
@@ -167,7 +167,7 @@ Este documento visa apresentar em pequenos blocos os tópicos necessários para 
 
 |   Tópico  | Responsável | Data de início | Data de Entrega |
 | -----------|-----------------|------------------|---------------------|  
-|  Elaborar o plano de riscos | [Maria Eduarda] | - | - |
+|  Elaborar o plano de riscos | [Maria Eduarda](https://github.com/DudaV228) | - | - |
 
 ## Plano de Custos 
 
@@ -179,7 +179,7 @@ Este documento visa apresentar em pequenos blocos os tópicos necessários para 
 
 |   Tópico  | Responsável | Data de início | Data de Entrega |
 | -----------|-----------------|------------------|---------------------|  
-|  Elaborar o plano de Tempo | [Maria Eduarda] | - | - |
+|  Elaborar o plano de Tempo | [Maria Eduarda](https://github.com/DudaV228) | - | - |
 
 # Modelagem BPMN
 
@@ -215,9 +215,9 @@ Este documento visa apresentar em pequenos blocos os tópicos necessários para 
 ## BPMN - Conectores
 |   Tópico  | Responsável | Data de início | Data de Entrega |
 | -----------|-----------------|------------------|---------------------|
-| Definição dos tipos de conectores | [Maria Eduarda] | - | - |
-| Aplicação prática em exemplos de processos | [Maria Eduarda] | - | - |
-| Documentação sobre conectores no BPMN | [Maria Eduarda] | - | - |
+| Definição dos tipos de conectores | [Maria Eduarda](https://github.com/DudaV228) | - | - |
+| Aplicação prática em exemplos de processos | [Maria Eduarda](https://github.com/DudaV228) | - | - |
+| Documentação sobre conectores no BPMN | [Maria Eduarda](https://github.com/DudaV228) | - | - |
 ## BPMN - Atividades
 |   Tópico  | Responsável | Data de início | Data de Entrega |
 | -----------|-----------------|------------------|---------------------|
@@ -238,9 +238,9 @@ Este documento visa apresentar em pequenos blocos os tópicos necessários para 
 
 |   Tópico  | Responsável | Data de início | Data de Entrega |
 | -----------|-----------------|------------------|---------------------|
-| Definição do conceito de Call Activity | - | - | - |
-| Aplicação prática de atividades reutilizáveis | - | - | - |
-| Documentação sobre Call Activity no BPMN | - | - | - |
+| Definição do conceito de Call Activity | [Maria Eduarda](https://github.com/DudaV228) | - | - |
+| Aplicação prática de atividades reutilizáveis | [Maria Eduarda](https://github.com/DudaV228) | - | - |
+| Documentação sobre Call Activity no BPMN | [Maria Eduarda](https://github.com/DudaV228) | - | - |
 
 ## BPMN - Eventos
 
@@ -309,8 +309,8 @@ Este documento visa apresentar em pequenos blocos os tópicos necessários para 
 
 | Tópico | Responsável | Data de início | Data de Entrega |
 |--------|-------------|----------------|-----------------|
-| Desenvolvimento do protótipo | [Maria Eduarda] | - | - |
-| Simulação da experiência do usuário | [Maria Eduarda] | - | - |
+| Desenvolvimento do protótipo | [Maria Eduarda](https://github.com/DudaV228) | - | - |
+| Simulação da experiência do usuário | [Maria Eduarda](https://github.com/DudaV228) | - | - |
 
 
 ## Referências Bibliográficas
