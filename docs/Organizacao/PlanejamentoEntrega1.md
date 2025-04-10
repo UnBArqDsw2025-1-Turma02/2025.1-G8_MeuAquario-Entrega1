@@ -326,4 +326,4 @@ Este documento visa apresentar em pequenos blocos os tópicos necessários para 
 | Versão | Alteração                  | Responsável     | Revisor | Data       | |
 | -      | -                          | -               | -       | -          |- |
 | 1.0    | Elaboração do documento       | Larissa Stéfane | [Rayene Almeida](https://github.com/rayenealmeida)| 02/04/2025 | Ortografia correta, foi corrigido a participante e a hierarquia dos tópicos
-| 1.1    | Reorganização das tarefas  |  [Rayene Almeida](https://github.com/rayenealmeida)| 02/04/2025 |  |
+| 1.1    | Reorganização das tarefas  |  [Rayene Almeida](https://github.com/rayenealmeida)|  | 02/04/2025 |
