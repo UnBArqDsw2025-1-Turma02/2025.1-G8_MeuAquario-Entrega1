@@ -55,7 +55,7 @@ Este documento visa apresentar em pequenos blocos os tópicos necessários para 
 
 |   Tópico  | Responsável | Data de início | Data de Entrega |
 | -----------|-----------------|------------------|---------------------| 
-| Criação do documento que introduz os métodos de elicitação utilizados e o escopo | [Júlia Takaki](https://github.com/juliatakaki) | - | - | 
+| Criação do documento que introduz os métodos de elicitação utilizados e o escopo | [Júlia Takaki](https://github.com/juliatakaki) | 10/04/2025 | 10/04/2025 | 
 
 ## BrainStorm
 
@@ -63,7 +63,7 @@ Este documento visa apresentar em pequenos blocos os tópicos necessários para 
 | -----------|-----------------|------------------|---------------------| 
 | Fazer reunião para realizar o BrainStorm | Todos | 02/04/2025 | /04/2025|
 | Elaboração do mapa metal do BrainStorm| Todos | 02/04/2025 | /04/2025| 
-| Realizar a documentação mostrando e explicando os resultados do BrainStorm | [Júlia Takaki](https://github.com/juliatakaki)  | - | - |
+| Realizar a documentação mostrando e explicando os resultados do BrainStorm | [Júlia Takaki](https://github.com/juliatakaki)  | 07/04/2025 | 07/04/2025 |
 
 ## 5W2H
 
@@ -88,9 +88,9 @@ Este documento visa apresentar em pequenos blocos os tópicos necessários para 
 
 |   Tópico  | Responsável | Data de início | Data de Entrega |
 | -----------|-----------------|------------------|---------------------|  
-|  Elaborar o questionário | [Júlia Takaki](https://github.com/juliatakaki)  | - | - |
+| Elaborar o questionário | [Júlia Takaki](https://github.com/juliatakaki)  | 07/04/2025 | 07/04/2025 |
 | Espalhar o questionário | Todos | - | - |
-| Analisar e Documentar os resultados | [Júlia Takaki](https://github.com/juliatakaki) | - | - | 
+| Analisar e Documentar os resultados | [Júlia Takaki](https://github.com/juliatakaki) | 10/04/2025 | 10/04/2025 | 
 
 ## Definição do Público Alvo
 
@@ -145,7 +145,7 @@ Este documento visa apresentar em pequenos blocos os tópicos necessários para 
 
 |   Tópico  | Responsável | Data de início | Data de Entrega |
 | -----------|-----------------|------------------|---------------------|  
-|  Elaborar da tabela indicando o grau | - | - | - |
+|  Elaborar da tabela indicando o grau | [Júlia Takaki](https://github.com/juliatakaki) | 10/04/2025 | 10/04/2025 |
 
 ## MoSCow
 
@@ -327,4 +327,4 @@ Este documento visa apresentar em pequenos blocos os tópicos necessários para 
 | Versão | Alteração                  | Responsável     | Revisor | Data       | |
 | -      | -                          | -               | -       | -          |- |
 | 1.0    | Elaboração do documento       | Larissa Stéfane | [Rayene Almeida](https://github.com/rayenealmeida)| 02/04/2025 | Ortografia correta, foi corrigido a participante e a hierarquia dos tópicos
-| 1.1    | Reorganização das tarefas  |  [Rayene Almeida](https://github.com/rayenealmeida)|  | 02/04/2025 |
+| 1.1    | Reorganização das tarefas  |  [Rayene Almeida](https://github.com/rayenealmeida)| [Júlia Takaki](https://github.com/juliatakaki) | 02/04/2025 |
