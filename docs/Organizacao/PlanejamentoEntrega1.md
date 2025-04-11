@@ -201,9 +201,9 @@ Este documento visa apresentar em pequenos blocos os tópicos necessários para 
 ## BPMN - Raia / Lane
 |   Tópico  | Responsável | Data de início | Data de Entrega |
 | -----------|-----------------|------------------|---------------------|
-| Definição das raias para cada ator/processo | [Brenno Silva](https://github.com/brenno-silva01) | - | - |
-| Representação gráfica das raias | [Brenno Silva](https://github.com/brenno-silva01) | - | - |
-| Documentação explicativa sobre raias no BPMN | [Brenno Silva](https://github.com/brenno-silva01) | - | - |
+| Definição das raias para cada ator/processo | [Brenno Silva](https://github.com/brenno-silva01) | 11/04/2025 | 11/04/2025 |
+| Representação gráfica das raias | [Brenno Silva](https://github.com/brenno-silva01) | 11/04/2025 | 11/04/2025 |
+| Documentação explicativa sobre raias no BPMN | [Brenno Silva](https://github.com/brenno-silva01) | 11/04/2025 | 11/04/2025 |
 
 ## BPMN - Fase / Milestone
 |   Tópico  | Responsável | Data de início | Data de Entrega |
