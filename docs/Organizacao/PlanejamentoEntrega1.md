@@ -263,15 +263,9 @@ Este documento visa apresentar em pequenos blocos os tópicos necessários para 
 
 |   Tópico  | Responsável | Data de início | Data de Entrega |
 | -----------|-----------------|------------------|---------------------|
-<<<<<<< HEAD
 | Definição dos itens de dados no BPMN | [Renato Carvalho](https://github.com/Osidious) | 11/04/2025 | 11/04/2025 |
 | Representação gráfica de dados no processo | [Renato Carvalho](https://github.com/Osidious) | 11/04/2025 | 11/04/2025 |
 | Documentação detalhada sobre dados no BPMN | [Renato Carvalho](https://github.com/Osidious) | 11/04/2025 | 11/04/2025 |
-=======
-| Definição dos itens de dados no BPMN | [Renato Carvalho](https://github.com/Osidious) | - | - |
-| Representação gráfica de dados no processo | [Renato Carvalho](https://github.com/Osidious) | - | - |
-| Documentação detalhada sobre dados no BPMN | [Renato Carvalho](https://github.com/Osidious) | - | - |
->>>>>>> main
 
 # Design Sprint
 
