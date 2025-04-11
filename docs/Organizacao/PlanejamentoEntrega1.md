@@ -151,7 +151,7 @@ Este documento visa apresentar em pequenos blocos os tópicos necessários para 
 
 |   Tópico  | Responsável | Data de início | Data de Entrega |
 | -----------|-----------------|------------------|---------------------|  
-|  Organização dos requisitos | [Brenno Silva](https://github.com/brenno-silva01) | - | - |
+|  Organização dos requisitos | [Brenno Silva](https://github.com/brenno-silva01) | 09/04/2025 | 11/04/2025 |
 
 # Prototipação
 
