@@ -13,7 +13,7 @@
       - [1.2.1. Elicitação dos Requisitos](Base/1.2.1.ElicitacaoRequisitos.md)
       - [1.2.2. Brainstorming](Base/1.2.2.Brainstorm.md)
       - [1.2.3. 5W2H](Base/1.2.3.5W2H.md)
-      - [1.2.4. Rich Picture](Base/1.2.4.RichPicture.md)
+      - [1.2.4. Rich Pictures](Base/1.2.4.RichPicture.md)
       - [1.2.5. Pesquisa/Questionário](Base/1.2.5.PesquisaQuestionario.md)
       - [1.2.6. Definição do Público-Alvo](Base/1.2.6.DefinicaoPublicoAlvo.md)
         - [1.2.6.1 Elaboração das Personas](Base/1.2.6.1.ElaboraçãoPersonas.md)
