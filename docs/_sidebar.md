@@ -42,6 +42,7 @@
       - [1.3.8. BPMN Eventos](Base/1.3.8.Eventos.md)
       - [1.3.9. BPMN Gateways](Base/1.3.9.Gateway.md)
       - [1.3.10. BPMN Items e Dados](Base/1.3.10.BPMN-ItemsEDados.md)
+      - [1.3.11. BPMN Subprocessos](Base/1.3.11.Subprocessos.md)
     - [1.4. Participações - Base](Base/1.4.ParticipacoesBase.md)
     - [1.5. Iniciativas Extras - Base](Base/1.5.IniciativasExtras.md)
       - [1.5.1. Benchmarking](Base/1.5.1.Benchmarking.md)
