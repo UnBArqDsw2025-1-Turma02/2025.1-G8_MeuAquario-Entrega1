@@ -231,9 +231,9 @@ Este documento visa apresentar em pequenos blocos os tópicos necessários para 
 
 |   Tópico  | Responsável | Data de início | Data de Entrega |
 | -----------|-----------------|------------------|---------------------|
-| Identificação de subprocessos no BPMN | - | - | - |
-| Representação gráfica dos subprocessos | - | - | - |
-| Documentação sobre subprocessos no BPMN | - | - | - |
+| Identificação de subprocessos no BPMN | [Víctor Moreira](https://github.com/aqela-batata-alt) | - | - |
+| Representação gráfica dos subprocessos | [Víctor Moreira](https://github.com/aqela-batata-alt) | - | - |
+| Documentação sobre subprocessos no BPMN | [Víctor Moreira](https://github.com/aqela-batata-alt) | - | - |
 
 ## BPMN - Call Activity / Reutilizável
 
