@@ -115,7 +115,7 @@ Este documento visa apresentar em pequenos blocos os tópicos necessários para 
 
 |   Tópico  | Responsável | Data de início | Data de Entrega |
 | -----------|-----------------|------------------|---------------------| 
-| Elaborar tabela que é a coletânea dos requisitos (Com rastreabilidade) | [Rayene Almeida](https://github.com/rayenealmeida) | - | - | 
+| Elaborar tabela que é a coletânea dos requisitos (Com rastreabilidade) | [Rayene Almeida](https://github.com/rayenealmeida) | 06/04/2025 | 10/04/2025 | 
 
 ## Diagrama modelagem e caso de uso
 
@@ -139,7 +139,7 @@ Este documento visa apresentar em pequenos blocos os tópicos necessários para 
 
 |   Tópico  | Responsável | Data de início | Data de Entrega |
 | -----------|-----------------|------------------|---------------------| 
-| Criação do documento que introduz os métodos de priorização utilizados e o escopo | [Rayene Almeida](https://github.com/rayenealmeida) | - | - | 
+| Criação do documento que introduz os métodos de priorização utilizados e o escopo | [Rayene Almeida](https://github.com/rayenealmeida) | 06/04/2025 | 10/04/2025 | 
 
 ## First Things First
 
@@ -187,16 +187,16 @@ Este documento visa apresentar em pequenos blocos os tópicos necessários para 
 
 |   Tópico  | Responsável | Data de início | Data de Entrega |
 | -----------|-----------------|------------------|---------------------|  
-|  Escolher as metodologias que serão aplicadas | Todos | - | - |
-|  Documentação com justificativa da escolha | [Rayene Almeida](https://github.com/rayenealmeida) | - | - |
+|  Escolher as metodologias que serão aplicadas | [Rayene Almeida](https://github.com/rayenealmeida) | 10/04/2025| 11/04/2025 |
+|  Documentação com justificativa da escolha | [Rayene Almeida](https://github.com/rayenealmeida) |10/04/2025| 11/04/2025 |
 
 ## BPMN - Piscina / Pool
 
 |   Tópico  | Responsável | Data de início | Data de Entrega |
 | -----------|-----------------|------------------|---------------------|
-| Definir os limites da piscina |[Rayene Almeida](https://github.com/rayenealmeida)| - | - |
-| Representação gráfica da piscina | [Rayene Almeida](https://github.com/rayenealmeida) | - | - |
-| Documentação explicativa sobre piscinas no BPMN | [Rayene Almeida](https://github.com/rayenealmeida)| - | - |
+| Definir os limites da piscina |[Rayene Almeida](https://github.com/rayenealmeida)| 06/04/2025 | 10/04/2025 |
+| Representação gráfica da piscina | [Rayene Almeida](https://github.com/rayenealmeida) | 06/04/2025 | 10/04/2025 |
+| Documentação explicativa sobre piscinas no BPMN | [Rayene Almeida](https://github.com/rayenealmeida)| 06/04/2025 | 10/04/2025 |
 
 ## BPMN - Raia / Lane
 |   Tópico  | Responsável | Data de início | Data de Entrega |
@@ -218,6 +218,7 @@ Este documento visa apresentar em pequenos blocos os tópicos necessários para 
 | Definição dos tipos de conectores | [Maria Eduarda](https://github.com/DudaV228) | - | - |
 | Aplicação prática em exemplos de processos | [Maria Eduarda](https://github.com/DudaV228) | - | - |
 | Documentação sobre conectores no BPMN | [Maria Eduarda](https://github.com/DudaV228) | - | - |
+
 ## BPMN - Atividades
 |   Tópico  | Responsável | Data de início | Data de Entrega |
 | -----------|-----------------|------------------|---------------------|
