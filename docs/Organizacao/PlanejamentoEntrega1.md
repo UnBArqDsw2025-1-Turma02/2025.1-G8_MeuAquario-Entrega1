@@ -96,8 +96,8 @@ Este documento visa apresentar em pequenos blocos os tópicos necessários para 
 
 |   Tópico  | Responsável | Data de início | Data de Entrega |
 | -----------|-----------------|------------------|---------------------|  
-| Organizar as características do público alvo a partir do que foi elicitado| [Brenno Silva](https://github.com/brenno-silva01) | - | - |
-| Elaboração das personas | [Brenno Silva](https://github.com/brenno-silva01) | - | - | 
+| Organizar as características do público alvo a partir do que foi elicitado| [Brenno Silva](https://github.com/brenno-silva01) | 10/04/2025 | 10/04/2025 |
+| Elaboração das personas | [Brenno Silva](https://github.com/brenno-silva01) | 10/04/2025 | 10/04/2025 | 
 
 ## StoryTelling
 
@@ -151,7 +151,7 @@ Este documento visa apresentar em pequenos blocos os tópicos necessários para 
 
 |   Tópico  | Responsável | Data de início | Data de Entrega |
 | -----------|-----------------|------------------|---------------------|  
-|  Organização dos requisitos | [Brenno Silva](https://github.com/brenno-silva01) | - | - |
+|  Organização dos requisitos | [Brenno Silva](https://github.com/brenno-silva01) | 09/04/2025 | 11/04/2025 |
 
 # Prototipação
 
@@ -201,9 +201,9 @@ Este documento visa apresentar em pequenos blocos os tópicos necessários para 
 ## BPMN - Raia / Lane
 |   Tópico  | Responsável | Data de início | Data de Entrega |
 | -----------|-----------------|------------------|---------------------|
-| Definição das raias para cada ator/processo | [Brenno Silva](https://github.com/brenno-silva01) | - | - |
-| Representação gráfica das raias | [Brenno Silva](https://github.com/brenno-silva01) | - | - |
-| Documentação explicativa sobre raias no BPMN | [Brenno Silva](https://github.com/brenno-silva01) | - | - |
+| Definição das raias para cada ator/processo | [Brenno Silva](https://github.com/brenno-silva01) | 11/04/2025 | 11/04/2025 |
+| Representação gráfica das raias | [Brenno Silva](https://github.com/brenno-silva01) | 11/04/2025 | 11/04/2025 |
+| Documentação explicativa sobre raias no BPMN | [Brenno Silva](https://github.com/brenno-silva01) | 11/04/2025 | 11/04/2025 |
 
 ## BPMN - Fase / Milestone
 |   Tópico  | Responsável | Data de início | Data de Entrega |
@@ -282,9 +282,9 @@ Este documento visa apresentar em pequenos blocos os tópicos necessários para 
 
 | Tópico | Responsável | Data de início | Data de Entrega |
 |--------|-------------|----------------|-----------------|
-| Definir desafios e metas | [Brenno Silva](https://github.com/brenno-silva01) | - | - |
-| Seleção de ideias prioritárias | - | - | - |
-| Adicionar a análise de requisitos | - | - | - |
+| Definir desafios e metas | [Brenno Silva](https://github.com/brenno-silva01) | 11/04/2025 | 11/04/2025 |
+| Seleção de ideias prioritárias | [Brenno Silva](https://github.com/brenno-silva01) | 11/04/2025 | 11/04/2025 |
+| Adicionar a análise de requisitos | [Brenno Silva](https://github.com/brenno-silva01) | 11/04/2025 | 11/04/2025 |
 
 
 ## Esboçar (Sketch)
