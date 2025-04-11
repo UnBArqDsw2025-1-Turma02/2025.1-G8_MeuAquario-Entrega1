@@ -282,9 +282,9 @@ Este documento visa apresentar em pequenos blocos os tópicos necessários para 
 
 | Tópico | Responsável | Data de início | Data de Entrega |
 |--------|-------------|----------------|-----------------|
-| Definir desafios e metas | [Brenno Silva](https://github.com/brenno-silva01) | - | - |
-| Seleção de ideias prioritárias | - | - | - |
-| Adicionar a análise de requisitos | - | - | - |
+| Definir desafios e metas | [Brenno Silva](https://github.com/brenno-silva01) | 11/04/2025 | 11/04/2025 |
+| Seleção de ideias prioritárias | [Brenno Silva](https://github.com/brenno-silva01) | 11/04/2025 | 11/04/2025 |
+| Adicionar a análise de requisitos | [Brenno Silva](https://github.com/brenno-silva01) | 11/04/2025 | 11/04/2025 |
 
 
 ## Esboçar (Sketch)
