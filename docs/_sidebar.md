@@ -37,6 +37,7 @@
     - [1.5. Iniciativas Extras - Base](Base/1.5.IniciativasExtras.md)
       - [1.5.1. Benchmarking](Base/1.5.1.Benchmarking.md)
       - [1.5.2. Mapa Mental](Base/1.5.2.MapaMental.md)
+    - [1.6. Protótipo](Base/1.6.Prototipo.md)
 
 - **Organização**
   - [Planejamento da Entrega 1](Organizacao/PlanejamentoEntrega1.md)
