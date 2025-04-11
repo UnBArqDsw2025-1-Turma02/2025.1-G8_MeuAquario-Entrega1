@@ -222,9 +222,9 @@ Este documento visa apresentar em pequenos blocos os tópicos necessários para 
 ## BPMN - Atividades
 |   Tópico  | Responsável | Data de início | Data de Entrega |
 | -----------|-----------------|------------------|---------------------|
-| Definição dos tipos de atividades (tarefa, subprocesso, etc.) | - | - | - |
-| Exemplificação das atividades no BPMN | - | - | - |
-| Documentação detalhada sobre atividades | - | - | - |
+| Definição dos tipos de atividades (tarefa, subprocesso, etc.) | [Júlia Takaki](https://github.com/juliatakaki) | 10/04/2025 | 10/04/2025 |
+| Exemplificação das atividades no BPMN | [Júlia Takaki](https://github.com/juliatakaki) | 10/04/2025 | 10/04/2025 |
+| Documentação detalhada sobre atividades | [Júlia Takaki](https://github.com/juliatakaki) | 10/04/2025 | 10/04/2025 |
 
 
 ## BPMN - Subprocessos
