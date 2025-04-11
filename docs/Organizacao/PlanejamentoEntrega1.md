@@ -263,9 +263,9 @@ Este documento visa apresentar em pequenos blocos os tópicos necessários para 
 
 |   Tópico  | Responsável | Data de início | Data de Entrega |
 | -----------|-----------------|------------------|---------------------|
-| Definição dos itens de dados no BPMN | - | - | - |
-| Representação gráfica de dados no processo | - | - | - |
-| Documentação detalhada sobre dados no BPMN | - | - | - |
+| Definição dos itens de dados no BPMN | [Renato Carvalho](https://github.com/Osidious) | - | - |
+| Representação gráfica de dados no processo | [Renato Carvalho](https://github.com/Osidious) | - | - |
+| Documentação detalhada sobre dados no BPMN | [Renato Carvalho](https://github.com/Osidious) | - | - |
 
 # Design Sprint
 
