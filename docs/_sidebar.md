@@ -15,6 +15,7 @@
       - [1.2.4. Rich Picture](Base/1.2.4.RichPicture.md)
       - [1.2.5. Pesquisa/Questionário](Base/1.2.5.PesquisaQuestionario.md)
       - [1.2.6. Definição do Público-Alvo](Base/1.2.6.DefinicaoPublicoAlvo.md)
+        - [1.2.6.1 Elaboração das Personas](Base/1.2.6.1.ElaboraçãoPersonas.md)
       - [1.2.7. Story Telling](Base/1.2.7.StoryTelling.md)
       - [1.2.8. Análise dos Requisitos](Base/1.2.8.AnaliseRequisitos.md)
       - [1.2.9. Definição dos Requisitos](Base/1.2.9.DefinicaoDosRequisitos.md)

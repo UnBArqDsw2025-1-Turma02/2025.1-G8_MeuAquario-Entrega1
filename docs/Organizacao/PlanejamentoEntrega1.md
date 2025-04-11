@@ -96,8 +96,8 @@ Este documento visa apresentar em pequenos blocos os tópicos necessários para 
 
 |   Tópico  | Responsável | Data de início | Data de Entrega |
 | -----------|-----------------|------------------|---------------------|  
-| Organizar as características do público alvo a partir do que foi elicitado| [Brenno Silva](https://github.com/brenno-silva01) | - | - |
-| Elaboração das personas | [Brenno Silva](https://github.com/brenno-silva01) | - | - | 
+| Organizar as características do público alvo a partir do que foi elicitado| [Brenno Silva](https://github.com/brenno-silva01) | 10/04/2025 | 10/04/2025 |
+| Elaboração das personas | [Brenno Silva](https://github.com/brenno-silva01) | 10/04/2025 | 10/04/2025 | 
 
 ## StoryTelling
 
