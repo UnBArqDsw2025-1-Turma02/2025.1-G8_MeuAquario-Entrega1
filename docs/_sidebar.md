@@ -37,7 +37,7 @@
       - [1.3.5. BPMN Conectores](Base/1.3.5.ConectoresBPMN.md)
       - [1.3.8. BPMN CallActivity](Base/1.3.8.CallActivity.md)
       - [1.3.9. BPMN Eventos](Base/1.3.9.Eventos.md)
-      - [1.3.10. BPMN Gateways](Base/1.3.5.Gateways.md)
+      - [1.3.10. BPMN Gateways](Base/1.3.10.Gateways.md)
     - [1.4. Participações - Base](Base/1.4.ParticipacoesBase.md)
     - [1.5. Iniciativas Extras - Base](Base/1.5.IniciativasExtras.md)
       - [1.5.1. Benchmarking](Base/1.5.1.Benchmarking.md)
