@@ -173,7 +173,7 @@ Este documento visa apresentar em pequenos blocos os tópicos necessários para 
 
 |   Tópico  | Responsável | Data de início | Data de Entrega |
 | -----------|-----------------|------------------|---------------------|  
-|  Elaborar o plano de Custos | [Pedro Henrique](https://github.com/PedroHhenriq) | - | - |
+|  Elaborar o plano de Custos | [Pedro Henrique](https://github.com/PedroHhenriq) | 09/04/2025 | 10/04/2025 |
 
 ## Plano de Tempo 
 
@@ -247,17 +247,17 @@ Este documento visa apresentar em pequenos blocos os tópicos necessários para 
 
 |   Tópico  | Responsável | Data de início | Data de Entrega |
 | -----------|-----------------|------------------|---------------------|
-| Definição dos tipos de eventos (início, intermediário, fim) | [Pedro Henrique](https://github.com/PedroHhenriq) | - | - |
-| Mapeamento de eventos dentro do BPMN | [Pedro Henrique](https://github.com/PedroHhenriq) | - | - |
-| Documentação detalhada sobre eventos | [Pedro Henrique](https://github.com/PedroHhenriq) | - | - |
+| Definição dos tipos de eventos (início, intermediário, fim) | [Pedro Henrique](https://github.com/PedroHhenriq) | 09/04/2025 | 10/04/2025 |
+| Mapeamento de eventos dentro do BPMN | [Pedro Henrique](https://github.com/PedroHhenriq) | 09/04/2025 | 10/04/2025 |
+| Documentação detalhada sobre eventos | [Pedro Henrique](https://github.com/PedroHhenriq) | 09/04/2025 | 10/04/2025 |
 
 ## BPMN - Gateways
 
 |   Tópico  | Responsável | Data de início | Data de Entrega |
 | -----------|-----------------|------------------|---------------------|
-| Identificação dos tipos de gateways | [Pedro Henrique](https://github.com/PedroHhenriq) | - | - |
-| Aplicação prática e exemplos | [Pedro Henrique](https://github.com/PedroHhenriq) | - | - |
-| Documentação sobre gateways no BPMN | [Pedro Henrique](https://github.com/PedroHhenriq) | - | - |
+| Identificação dos tipos de gateways | [Pedro Henrique](https://github.com/PedroHhenriq) | 09/04/2025 | 10/04/2025 |
+| Aplicação prática e exemplos | [Pedro Henrique](https://github.com/PedroHhenriq) | 09/04/2025 | 10/04/2025 |
+| Documentação sobre gateways no BPMN | [Pedro Henrique](https://github.com/PedroHhenriq) | 09/04/2025 | 10/04/2025 |
 
 ## BPMN - Itens e Dados
 
@@ -291,9 +291,9 @@ Este documento visa apresentar em pequenos blocos os tópicos necessários para 
 
 | Tópico | Responsável | Data de início | Data de Entrega |
 |--------|-------------|----------------|-----------------|
-| Geração de ideias e soluções | [Pedro Henrique](https://github.com/PedroHhenriq) | - | - |
-| Criação de rascunhos e esboços | [Pedro Henrique](https://github.com/PedroHhenriq) | - | - |
-| Refinamento das ideias mais promissoras | [Pedro Henrique](https://github.com/PedroHhenriq) | - | - |
+| Geração de ideias e soluções | [Pedro Henrique](https://github.com/PedroHhenriq) | 09/04/2025 | 10/04/2025 |
+| Criação de rascunhos e esboços | [Pedro Henrique](https://github.com/PedroHhenriq) | 09/04/2025 | 10/04/2025|
+| Refinamento das ideias mais promissoras | [Pedro Henrique](https://github.com/PedroHhenriq) | 09/04/2025 | 10/04/2025 |
 
 
 ## Decidir (Decision)
