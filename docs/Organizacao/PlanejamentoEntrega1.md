@@ -208,9 +208,9 @@ Este documento visa apresentar em pequenos blocos os tópicos necessários para 
 ## BPMN - Fase / Milestone
 |   Tópico  | Responsável | Data de início | Data de Entrega |
 | -----------|-----------------|------------------|---------------------|
-| Definição de marcos dentro do processo | - | - | - |
-| Identificação e mapeamento de fases | - | - | - |
-| Documentação sobre milestones no BPMN | - | - | - |
+| Definição de marcos dentro do processo | [Júlia Takaki](https://github.com/juliatakaki) | 10/04/2025 | 10/04/2025 |
+| Identificação e mapeamento de fases | [Júlia Takaki](https://github.com/juliatakaki) | 10/04/2025 | 10/04/2025 |
+| Documentação sobre milestones no BPMN | [Júlia Takaki](https://github.com/juliatakaki) | 10/04/2025 | 10/04/2025 |
 
 ## BPMN - Conectores
 |   Tópico  | Responsável | Data de início | Data de Entrega |
