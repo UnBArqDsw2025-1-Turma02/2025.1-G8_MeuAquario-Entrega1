@@ -7,6 +7,7 @@
   - [1. Desenho de Software (Base)](Base/1.Base.md)
     - [1.1. Design Sprint](Base/1.1.DesignSprint.md)
       - [1.1.1. Entender](Base/1.1.1.Entender.md)
+      - [1.1.2. Definir](Base/1.1.2.Definir.md)
       - [1.1.3. Sketch](Base/1.1.3.Sketch.md)
     - [1.2. Artefato Generalista](Base/1.2.ArtefatoGeneralista.md)
       - [1.2.1. Elicitação dos Requisitos](Base/1.2.1.ElicitacaoRequisitos.md)
