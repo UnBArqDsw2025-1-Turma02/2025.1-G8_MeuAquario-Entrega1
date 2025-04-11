@@ -81,8 +81,8 @@ Este documento visa apresentar em pequenos blocos os tópicos necessários para 
 
 |   Tópico  | Responsável | Data de início | Data de Entrega |
 | -----------|-----------------|------------------|---------------------| 
-| Realizar Rich Picture do cenário | Todos (cada um faz o seu) | 02/04/2025 |  - |
-| Seleção do melhor rich picture | Todos | 03/04/2025 |  - |
+| Realizar Rich Picture do cenário | Todos (cada um faz o seu) | 02/04/2025 | 11/04/2025 |
+| Seleção do melhor rich picture | Todos | 03/04/2025 |  11/04/2025 |
 
 ## Pesquisa/Questionário
 
@@ -273,10 +273,10 @@ Este documento visa apresentar em pequenos blocos os tópicos necessários para 
 
 | Tópico | Responsável | Data de início | Data de Entrega |
 |--------|-------------|----------------|-----------------|
-| Identificação do problema | [Rayene Almeida](https://github.com/rayenealmeida) | - | - |
-| Mapeamento do contexto e dos usuários | [Rayene Almeida](https://github.com/rayenealmeida) | - | - |
-| Definição dos objetivos |[Rayene Almeida](https://github.com/rayenealmeida) | - | - |
-| Adicionar os mapas mentais e as outras técnicas de elicitação realizadas | - | - |
+| Identificação do problema | [Rayene Almeida](https://github.com/rayenealmeida) | 10/04/2025 | 11/04/2025 |
+| Mapeamento do contexto e dos usuários | [Rayene Almeida](https://github.com/rayenealmeida) | 10/04/2025 | 11/04/2025 |
+| Definição dos objetivos |[Rayene Almeida](https://github.com/rayenealmeida) | 10/04/2025| 11/04/2025 |
+| Adicionar os mapas mentais e as outras técnicas de elicitação realizadas | [Rayene Almeida](https://github.com/rayenealmeida)| 10/04/2025| 11/04/2025|
 
 ## Definir
 
