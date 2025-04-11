@@ -32,6 +32,8 @@
     - [1.3. Modelagem BPMN](Base/1.3.ModelagemBPMN.md)
       - [1.3.1. Metodologia](Base/1.3.1.Metodologia.md)
       - [1.3.2. BPMN Piscina/Pool](Base/1.3.2.Piscina.md)
+      - [1.3.3. BPMN Fase/Milestone](Base/1.3.3.BPMN-FaseMilestone.md)
+      - [1.3.4. BPMN Atividades](Base/1.3.4.BPMN-Atividades.md)
       - [1.3.5. BPMN Conectores](Base/1.3.5.ConectoresBPMN.md)
       - [1.3.8. BPMN CallActivity](Base/1.3.8.CallActivity.md)
       - [1.3.9. BPMN Eventos](Base/1.3.9.Eventos.md)
